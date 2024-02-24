@@ -35,14 +35,14 @@
 ## ```Bot Support Groups```
 <p align="center">
 
-<a href="https://chat.whatsapp.com/FoS7pSPtfMqBuoireKJ"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/L49QBvVDWX0EwT3kqAZI9b"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </p>
 
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/emmkash/CORTANA-AI/fork)
+- FORK THE REPOSITORY [Here](https://github.com/emmkash20/CORTANA-AI/fork)
 
 
 ## ` Pair with WhatsApp`
@@ -146,10 +146,10 @@ npm i -g pm2 && pm2 start  index.js && pm2 save && pm2 logs
 ```
 <br>
 <br>
- <h2 align="center"> Thanks to
+ <h2 align="center"> Thanks to 𓆩 𝗘𝗠𝗠𝗞𝗔𝗦𝗛𓆪
 </h2>
 
-1. **𓆩 𝗘𝗠𝗠𝗞𝗔𝗦𝗛𓆪**
+1
    -https://github.com/Emmkash20/CORTANA-AI
 
 
