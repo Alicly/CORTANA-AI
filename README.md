@@ -125,7 +125,7 @@ pkg install yarn
 
 pkg install imagemagick -y
 
-git clone https://github.com/emmkash/CORTANA-AI
+git clone https://github.com/emmkash20/CORTANA-AI
 
 cd CORTANA-AI
 
@@ -146,11 +146,11 @@ npm i -g pm2 && pm2 start  index.js && pm2 save && pm2 logs
 ```
 <br>
 <br>
- <h2 align="center"> 🦄Thanks to🦄
+ <h2 align="center"> Thanks to
 </h2>
 
-1. **MGTOPHAZ**
-   - GitHub: [MGTOPHAZ-dX](https://github.com/MGTOPHAZ)
+1. **𓆩 𝗘𝗠𝗠𝗞𝗔𝗦𝗛𓆪**
+   -https://github.com/Emmkash20/CORTANA-AI
 
 
 Feel free to contribute and make this project even more awesome! 🌟
