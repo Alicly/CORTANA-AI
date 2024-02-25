@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2023 Ayush
+Copyright (c) 2022 𓆩 𝗘𝗠𝗠𝗞𝗔𝗦𝗛𓆪
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
