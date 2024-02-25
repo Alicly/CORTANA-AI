@@ -21,9 +21,9 @@ pkg install yarn
 
 pkg install imagemagick -y
 
-git clone Https://github.com/MGTOPHAZ/ZENON-AI 
+git clone Https://github.com/emmkash20/CORTANA-AI
 
-cd ZENON-AI
+cd CORTANA-AI
 
 rm -rf session
 
@@ -31,21 +31,21 @@ yarn install
 
 npm start
 
-https://github.com/MGTOPHAZ/ZENON-AI
+https://github.com/emmkash20/CORTANA-AI
 
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮ZENON BOT INC 2023 ®️ALL RIGHTS RESERVED
+//▮CORTANA-AI  INC 2022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
-//▮  Https://github.com/MGTOPHAZ/ZENON-AI 
+//▮  Https://github.com/emmkash20/CORTANA-AI
 //▮
 //▮THIS SOFTWARE IS UNDER IS COPYRIGHT
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
 //▮
-//▮WHATSAPP US : +254705243111
-//▮EMAIL US Mgtophaz@gmail.com 
+//▮WHATSAPP US : +254112735877
+//▮EMAIL US Emmkash20@gmail.com
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
